@@ -1,4 +1,6 @@
-### truepic/Matthew Burke interview
+## Interview Table of Contents
+
+#### UI Examples
 
 - Goblin and JQuiz and Katsuyou Renshuu
 
@@ -13,10 +15,17 @@
   Exploration into interpreters, compilers, etc. Then
   making use of it in another project.
 
-  - <https://github.com/profburke/troll>
-  - <https://github.com/profburke/troll-tools>
   - <https://github.com/profburke/goblin>
 
+  Related repositories:
+
+  - <https://github.com/profburke/troll>
+  - <https://github.com/profburke/troll-tools>
+
+
+----
+
+#### Integration Examples
 
 - iLua
 
